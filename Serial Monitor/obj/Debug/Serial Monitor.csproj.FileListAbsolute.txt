@@ -1,0 +1,11 @@
+D:\OneDrive\Project\VS\Serial Monitor\Serial Monitor\bin\Debug\Serial Monitor.exe.config
+D:\OneDrive\Project\VS\Serial Monitor\Serial Monitor\bin\Debug\Serial Monitor.exe
+D:\OneDrive\Project\VS\Serial Monitor\Serial Monitor\bin\Debug\Serial Monitor.pdb
+D:\OneDrive\Project\VS\Serial Monitor\Serial Monitor\obj\Debug\Serial_Monitor.Properties.Resources.resources
+D:\OneDrive\Project\VS\Serial Monitor\Serial Monitor\obj\Debug\Serial Monitor.csproj.GenerateResource.Cache
+D:\OneDrive\Project\VS\Serial Monitor\Serial Monitor\obj\Debug\Serial Monitor.exe
+D:\OneDrive\Project\VS\Serial Monitor\Serial Monitor\obj\Debug\Serial Monitor.pdb
+D:\OneDrive\Project\VS\Serial Monitor\Serial Monitor\obj\Debug\Serial Monitor.csprojResolveAssemblyReference.cache
+D:\OneDrive\Project\VS\Serial Monitor\Serial Monitor\obj\Debug\Serial_Monitor.Form1.resources
+D:\OneDrive\Project\VS\Serial Monitor\Serial Monitor\bin\Debug\ZedGraph.dll
+D:\OneDrive\Project\VS\Serial Monitor\Serial Monitor\bin\Debug\ZedGraph.Web.dll
